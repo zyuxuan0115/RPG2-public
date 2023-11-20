@@ -1,4 +1,4 @@
-# pg^2: Profile Guided Prefetch Guard
+# RPG^2: Rubust Profile-Guided Runtime Prefetch Guard
 
 
 ## Prerequisites
